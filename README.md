@@ -12,7 +12,9 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/hectorulisesstamatio/hectorulisesstamatio/blob/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/HectorUlisesStamatio/HectorUlisesStamatio/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
