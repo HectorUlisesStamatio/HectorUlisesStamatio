@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
@@ -59,6 +59,12 @@
   <img height="200" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  />
 </div>
 
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/HectorUlisesStamatio/HectorUlisesStamatio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"  
+</div>
 
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/HectorUlisesStamatio/HectorUlisesStamatio/output/github-contribution-grid-snake.svg#gh-light-mode-only"  
+</div>
 
 
